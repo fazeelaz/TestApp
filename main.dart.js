@@ -71994,7 +71994,7 @@ s.ab(new A.a8K())
 A.rl("val"+s.e)},
 M(a){var s,r,q,p,o,n=this,m=null
 n.a.toString
-s=A.i7("Flutter Demo Home Page",m,m,m,m,m,m)
+s=A.i7("SQL query Parser",m,m,m,m,m,m)
 r=A.adD(B.qZ)
 q=t.E
 r=A.t6(A.a([A.om(m,new A.cv(B.B7,A.auP(n.d,12,new A.a8E()),m),B.z,m,new A.cM(m,m,r,m,m,m,B.aM),m,m,m,500),new A.cv(B.B_,A.V5(A.i7("Clear",m,m,m,m,m,m),new A.a8F(n)),m)],q),B.bD,B.c7,B.cA)
