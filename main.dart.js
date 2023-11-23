@@ -72080,7 +72080,7 @@ l=A.ai(m,!0,A.m(m).k("o.E"))
 k=l[0]
 a.w.push(k)
 m=l[1]
-j=A.ay(["int","int","varchar","String","float","double","tinyint","int","smallint","int","bit","bool","datetime","String"],r,r).h(0,m.toLowerCase())
+j=A.ay(["int","int","varchar","String","float","double","decimal","double","tinyint","int","smallint","int","bit","bool","datetime","String"],r,r).h(0,m.toLowerCase())
 q+=" "+(j==null?"dynamic":j)+"? "+k+";\n"}s=a.r
 r=B.b.bw(a.w,",\n this.")
 m=a.r
