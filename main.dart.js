@@ -72174,7 +72174,7 @@ A.OB.prototype={
 a88(a){this.aa(new A.aaQ(this,a))
 A.lx("val"+this.e)},
 abw(a){var s=this
-a=A.nY(a,"sql +=","")
+a=A.nY(a,"query +=","")
 a=A.nY(a,";"," ")
 a=A.nY(a,'""',"\n")
 s.f=s.e=A.nY(a,'"',"")
@@ -72187,7 +72187,7 @@ r=A.C9(B.f1)
 return A.afl(o,A.afq(A.oh(A.a18(A.a([new A.bu(B.aq,n,p),s,A.k0(A.a([new A.bu(B.aq,A.hz(p,new A.bu(B.lm,A.aka(q.f,10,A.fq(p,p,B.m,p,p,p,p,p,p,p,p,18,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)),p),B.y,p,new A.cA(p,p,r,p,p,p,B.aA),p,p,p,600),p),A.k6(A.dw("Clear",p,p,p,p,p,p),new A.aaP(q))],m),B.aO,B.b1,B.b2)],m),B.aO,B.r_,B.b2),p,p)))}}
 A.aaQ.prototype={
 $0(){var s=this.a
-s.f=s.e='"'+A.nY(this.b,"\n",'";\nsql +=" ')+'"'},
+s.f=s.e='"'+A.nY(this.b,"\n",'";\nquery +=" ')+'"'},
 $S:0}
 A.aaR.prototype={
 $0(){},
